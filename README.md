@@ -20,4 +20,5 @@ shiny | [TRUE](https://cran.r-project.org/web/packages/shiny/index.html) | [link
 shopifyr | [TRUE](https://cran.r-project.org/web/packages/shopifyr/index.html) | [link](https://github.com/charliebone/shopifyr/search?utf8=%E2%9C%93&q=R6Class)
 vmsbase | [TRUE](https://cran.r-project.org/web/packages/vmsbase/index.html) | ???
 
+Follow this [link](https://github.com/search?l=R&q=r6++language%3AR+extension%3AR&ref=advsearch&type=Code&utf8=%E2%9C%93) for a Github advanced search of R files containing "R6". This link will be used to exand upon the list of CRAN packages above.
 
