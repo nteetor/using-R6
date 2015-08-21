@@ -5,7 +5,6 @@ Generator object:
 * Has S3 constructor "query.bigquery"
 * Uses public methods
   * No getters or setters
-  
 * Uses public fields
 * Uses private fields
 * No private methods
